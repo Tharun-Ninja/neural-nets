@@ -1,2 +1,2 @@
-# neural-nets
+#Neural Networks
 Coding custom neural networks
